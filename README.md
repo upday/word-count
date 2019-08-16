@@ -1,5 +1,6 @@
 # Exercise
 
+```
 Write a method to find the top 10 words in a text.  The result should be formatted as a table:
 ​
 Example Output:
@@ -25,3 +26,5 @@ private static String text =
             + "\n"
             + "Key Sentences (a.k.a. Topic Sentences)\n"
             + "Gold keyIn academic writing, readers expect each paragraph to have a sentence or two that captures its main point. They're often called \"topic sentences,\" though many writing instructors prefer to call them "key sentences." There are at least two downsides of the phrase "topic sentence." First, it makes it seem like the paramount job of that sentence is simply to announce the topic of the paragraph. Second, it makes it seem like the topic sentence must always be a single grammatical sentence. Calling it a "key sentence" reminds us that it expresses the central idea of the paragraph. And sometimes a question or a two-sentence construction functions as the key.";
+        
+```
